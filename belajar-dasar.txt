@@ -1,0 +1,2 @@
+ini adalah repo pertama saya
+- saya membuat repo dan mencoba commit
