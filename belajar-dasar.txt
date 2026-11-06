@@ -1,2 +1,4 @@
 ini adalah repo pertama saya
 - saya membuat repo dan mencoba commit
+- ini coba edit dan menambahkan commit baru
+- pesan baris ini, akan saya coba hapus nantinya
