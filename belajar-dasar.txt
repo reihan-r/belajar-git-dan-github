@@ -2,4 +2,4 @@ ini adalah repo pertama saya
 - saya membuat repo dan mencoba commit
 - ini coba edit dan menambahkan commit baru
 - pesan baris sebelumnya sudah saya hapus dan ganti dengan pesan baru
-- oke ini adalah commit yang ke 3 seharusnya
+- oke ini adalah commit yang ke 4 seharusnya
