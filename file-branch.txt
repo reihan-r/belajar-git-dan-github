@@ -1,0 +1,3 @@
+file branc
+- ini dibuat untuk belajar branching
+- sekarang masuk ke commit ke 2
