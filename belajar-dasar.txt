@@ -4,3 +4,5 @@ ini adalah repo pertama saya
 - pesan baris sebelumnya sudah saya hapus dan ganti dengan pesan baru
 - oke ini adalah commit yang ke 4 seharusnya
 - pesan ini ditulis saat belajar branching
+- ini commit untuk mencari tahu kenapa visual branch tidak muncul
+
